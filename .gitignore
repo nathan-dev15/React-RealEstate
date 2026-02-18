@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 echo "# React-RealEstate" >> README.md
 git init
@@ -7,6 +8,8 @@ git branch -M main
 git remote add origin https://github.com/nathan-dev15/React-RealEstate.git
 git push -u origin main
 
+=======
+>>>>>>> 546d1f3504c1cc8b817abd5778fdaac43dcf09aa
 # Logs
 logs
 *.log
@@ -31,4 +34,7 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+<<<<<<< HEAD
 
+=======
+>>>>>>> 546d1f3504c1cc8b817abd5778fdaac43dcf09aa
